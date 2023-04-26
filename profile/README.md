@@ -1,4 +1,4 @@
-# ChainLancer: A Comprehensive Solution to the Challenges in Freelance Work for Clients and Freelancers
+# ChainLancer: A Decentralized Crypto-Based Escrow Platform for Freelancers and Clients
 
 ## Abstract:
 

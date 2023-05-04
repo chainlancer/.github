@@ -1,4 +1,4 @@
-# ChainLancer: A Decentralized Platform for Secure and Trustless Transactions between Freelancers and Clients
+# ChainLancer: A decentralized platform enables trustless atomic swaps of digital work.
 
 ## Abstract:
 The freelance industry has seen rapid growth in recent years, driven by the digital revolution and an increasing demand for skilled developers and contractors. Despite its many advantages, the freelance ecosystem faces significant challenges, such as timely payments, confidentiality, and trust. This paper explores ChainLancer, a blockchain-based platform designed to address these challenges by enabling secure and trustless transactions between freelancers and clients, and outlines its features and benefits for both parties.
